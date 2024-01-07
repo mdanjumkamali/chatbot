@@ -7,7 +7,7 @@ A simple chatbot implementation using OpenAI's GPT-3.5-turbo model. The chatbot 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/mdanjumkamali/chatbot.git
 
    ```
 
